@@ -1,0 +1,4 @@
+language: nodejs
+services:
+  - docker
+script: ls
